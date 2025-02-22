@@ -1,0 +1,13 @@
+<screen>
+	<meta>
+		<title>Hola S42UI</title>
+	</meta>
+	<body>
+		<box>
+			<text>Vamos a aprender a usar S42UI</text>
+		</box>
+		<box>
+			<text>Primero, instalamos la extension en vscode</text>
+		</box>
+	</body>
+</screen>
